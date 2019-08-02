@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cyc-intranet-app-client-side-solution",
+    "id": "f78e3568-7b76-4857-887c-d8f788fa36e3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/cyc-intranet-app.sppkg"
+  }
+}

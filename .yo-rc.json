@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.1",
+    "libraryName": "cyc-intranet-app",
+    "libraryId": "f78e3568-7b76-4857-887c-d8f788fa36e3",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

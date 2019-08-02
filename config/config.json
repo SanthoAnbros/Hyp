@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "hay-hyper-links-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/hayHyperLinks/HayHyperLinksWebPart.js",
+          "manifest": "./src/webparts/hayHyperLinks/HayHyperLinksWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "HayHyperLinksWebPartStrings": "lib/webparts/hayHyperLinks/loc/{locale}.js"
+  }
+}
